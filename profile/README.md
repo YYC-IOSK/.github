@@ -1,6 +1,5 @@
 # YYC-IOSK
 
-## Hi there 👋
 
 <!--
 
